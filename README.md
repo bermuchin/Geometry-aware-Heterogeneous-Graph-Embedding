@@ -1,4 +1,4 @@
-# Awesome Heterogeneous Graph Embedding
+# Heterogeneous Graph Embedding
 
 A curated collection of papers, code repositories, datasets, and resources for **Heterogeneous Graph Embedding (HGE)** and **Heterogeneous Graph Neural Networks (HGNNs)** from the perspective of embedding spaces.
 
