@@ -1,173 +1,105 @@
-# Heterogeneous Graph Embedding
+#  Geometry aware Heterogeneous Graph Embedding
 
-A curated collection of papers, code repositories, datasets, and resources for **Heterogeneous Graph Embedding (HGE)** and **Heterogeneous Graph Neural Networks (HGNNs)** from the perspective of embedding spaces.
+A curateed collection of papers, codes, datasts, and resources on heterogeneous graph embedding and heterogeneous graph neural networks.
 
-## Overview
+---
 
-Heterogeneous Graph Embedding aims to learn low-dimensional representations of heterogeneous graphs containing multiple types of nodes and relations.
-
-Unlike existing collections that mainly organize methods by architecture, this repository categorizes studies according to their underlying embedding geometries:
+## Contents
 
 * Euclidean Space
-* Hyperbolic Space
-* Hyperspherical Space
-* Hybrid Space
+  *** Shallow Embedding
+  *** Neural Architectures
+
+* Non-Euclidean Space
+  ** Hyperbolic Space
+    *** Shallow Embedding
+    *** Neural Architectures
+  
+  ** Hyperspherical Space
+
+* Mixed Space
+* Applications
+* Datasets
+* Benchmarks
 
 ---
 
-## Taxonomy
+Euclidean Space
+Shallow Embedding
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks.
+Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.
+KDD 2017.
+[Paper]
+HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.
+Fu et al.
+CIKM 2017.
+[Paper] [Code]
+JUST: JUmps and STays for Heterogeneous Information Network Representation Learning.
+Kim et al.
+2020.
+[Paper] [Code]
+Neural Architectures
+Heterogeneous Graph Attention Network (HAN).
+Wang et al.
+WWW 2019.
+[Paper] [Code]
+Graph Transformer Networks (GTN).
+Yun et al.
+NeurIPS 2019.
+[Paper] [Code]
+MAGNN: Metapath Aggregated Graph Neural Network.
+Fu et al.
+WWW 2020.
+[Paper] [Code]
+HeCo: Heterogeneous Graph Contrastive Learning.
+Wang et al.
+KDD 2021.
+[Paper] [Code]
+Non-Euclidean Space
+Hyperbolic Space
+Shallow Embedding
+HHNE: Hyperbolic Heterogeneous Network Embedding.
+[Paper] [Code]
+HHNE++.
+[Paper]
+Neural Architectures
+McH-HGCN.
+[Paper]
+SHAN.
+[Paper]
+HHGAT.
+[Paper]
+MSGAT.
+[Paper]
+MHCL.
+[Paper]
+HypHGT.
+[Paper]
+Hyperspherical Space
+EVIDENCEMINER.
+[Paper]
+Mixed Space
 
-```text
-Heterogeneous Graph Embedding
-│
-├── Euclidean Space
-│   ├── Shallow Embedding
-│   └── Neural Architectures
-│
-├── Hyperbolic Space
-│   ├── Shallow Embedding
-│   └── Neural Architectures
-│
-├── Hyperspherical Space
-│
-└── Hybrid Space
-```
+(To be updated)
 
+Applications
+Recommendation Systems
+Bioinformatics
+Social Networks
+Knowledge Graphs
+Datasets
+Academic Networks
+ACM
+DBLP
+IMDB
+Recommendation
+Yelp
+Amazon
+Benchmarks
+
+(To be updated)
 ---
 
-# Euclidean Space
+# Contributing
 
-## Shallow Embedding
-
-| Paper        | Venue | Year | Code |
-| ------------ | ----- | ---- | ---- |
-| metapath2vec | KDD   | 2017 |      |
-| HIN2Vec      | CIKM  | 2017 |      |
-| JUST         |       |      |      |
-
-## Neural Architectures
-
-| Paper  | Venue   | Year | Code |
-| ------ | ------- | ---- | ---- |
-| HAN    | WWW     | 2019 |      |
-| MAGNN  | WWW     | 2020 |      |
-| GTN    | NeurIPS | 2019 |      |
-| MeGNN  |         |      |      |
-| DiffMG |         |      |      |
-| HeCo   | KDD     | 2021 |      |
-| SeHGNN |         |      |      |
-| HPN    |         |      |      |
-| muxGNN |         |      |      |
-| AHGNN  |         |      |      |
-| HGEN   |         |      |      |
-
----
-
-# Hyperbolic Space
-
-## Shallow Embedding
-
-| Paper  | Venue | Year | Code |
-| ------ | ----- | ---- | ---- |
-| HHNE   |       |      |      |
-| HHNE++ |       |      |      |
-
-## Neural Architectures
-
-| Paper    | Venue | Year | Code |
-| -------- | ----- | ---- | ---- |
-| McH-HGCN |       |      |      |
-| SHAN     |       |      |      |
-| HHGAT    |       |      |      |
-| MSGAT    |       |      |      |
-| MHCL     |       |      |      |
-| HypHGT   |       |      |      |
-
----
-
-# Hyperspherical Space
-
-| Paper         | Venue | Year | Code |
-| ------------- | ----- | ---- | ---- |
-| EVIDENCEMINER |       |      |      |
-
----
-
-# Hybrid Space
-
-| Paper       | Venue | Year | Code |
-| ----------- | ----- | ---- | ---- |
-| Coming Soon |       |      |      |
-
----
-
-# Applications
-
-## General Applications
-
-### Recommendation Systems
-
-### Natural Language Processing
-
-### Anomaly Detection
-
-### Computer Vision and Multimodal Learning
-
-## Domain-Specific Applications
-
-### Knowledge Graphs
-
-### Urban Infrastructure
-
-### Bioinformatics
-
-### Social Networks Analysis
-
-### Web Applications
-
-
-
-
----
-
-# Datasets
-
-## Academic Networks
-
-* DBLP
-* ACM
-
-## Recommendation
-
-* Yelp
-* Amazon
-
-## Knowledge Graphs
-
-* Freebase
-* DBpedia
-
-## Biomedical Networks
-
-* To be added
-
----
-
-# Benchmarks
-
-Coming soon.
-
----
-
-# Open-Source Libraries
-
-* PyTorch Geometric (PyG)
-* DGL
-* Geoopt
-* Hype
-
----
-
-# Citation
-
-If you find this repository useful, please consider citing our survey paper.
+Pull requests are welcome.
