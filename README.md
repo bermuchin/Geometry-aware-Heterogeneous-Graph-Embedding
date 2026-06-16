@@ -23,7 +23,8 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 * Mixed Space
 
 * Applications
-
+    * General Applications
+    * Domain-Specific Applications
 * Datasets
 
 * Benchmarks
@@ -124,13 +125,25 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 # Applications
 
-## Recommendation Systems
+## General Applications
 
-## Bioinformatics
+### Recommendation Systems
 
-## Social Networks
+### NLP
 
-## Knowledge Graphs
+### Anomalt Detection
+
+## Domain-Specific Applications
+
+### Knowledge Graphs
+
+### Urban Infrastructure
+
+### Biomedical
+
+### Social Networks Analysis
+
+
 
 ---
 
