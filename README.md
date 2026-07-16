@@ -35,19 +35,19 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Shallow Embedding
 
-1. **metapath2vec: Scalable Representation Learning for Heterogeneous Networks**.
-   Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.
-   KDD 2017.
-   [[Paper]]()
+1. **metapath2vec: Scalable representation learning for heterogeneous networks**.
+  - Dong et al.
+   <br>Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining, 2017
+   [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098036) [[Code]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
-2. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning**.
+3. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning**.
    Fu et al.
    CIKM 2017.
    [[Paper]]() [[Code]]()
 
-3. **HERec**
+4. **HERec**
 
-4. **JUST: JUmps and STays for Heterogeneous Information Network Representation Learning**.
+5. **JUST: JUmps and STays for Heterogeneous Information Network Representation Learning**.
    Kim et al.
    2020.
    [[Paper]]() [[Code]]()
