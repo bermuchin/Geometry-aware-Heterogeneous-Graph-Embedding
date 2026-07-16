@@ -39,16 +39,17 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
    <br>Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining, 2017
    [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098036) [[Code]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
-2. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning** - Fu et al
+2. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning** - Fu et al.
    <br>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017
    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3132847.3132953)
 
-3. **HERec**
+3. **Heterogeneous Information Network Embedding for Recommendation** - Shi et al.
+   <br>IEEE transactions on knowledge and data engineering, 2018
+   [[Paper]](https://ieeexplore.ieee.org/abstract/document/8355676) [[Code]](https://github.com/librahu/HERec)
 
-4. **JUST: JUmps and STays for Heterogeneous Information Network Representation Learning**.
-   Kim et al.
-   2020.
-   [[Paper]]() [[Code]]()
+4. **Are meta-paths necessary? revisiting heterogeneous graph embeddings** - Hussein et al.
+   <br>Proceedings of the 27th ACM International Conference on Information and Knowledge Management, 2018
+   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3269206.3271777) [[Code]](https://github.com/eXascaleInfolab/JUST)
 
 ---
 
