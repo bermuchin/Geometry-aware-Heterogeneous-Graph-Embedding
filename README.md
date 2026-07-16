@@ -55,83 +55,83 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Neural Architectures
 
-1. **Heterogeneous Graph Attention Network (HAN)**.
-   Wang et al.
-   WWW 2019.
-   [[Paper]]() [[Code]]()
+## Neural Architectures
 
-2. **MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding**.
-   Fu et al.
-   WWW 2020.
-   [[Paper]]() [[Code]]()
+1. **Heterogeneous graph attention network** - Wang et al.
+   <br>Proceedings of The Web Conference, 2019
+   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3308558.3313562) [[Code]]
 
-3. **Graph Transformer Networks (GTN)**.
-   Yun et al.
-   NeurIPS 2019.
-   [[Paper]]() [[Code]]()
+2. **Magnn: Metapath aggregated graph neural network for heterogeneous graph embedding** - Fu et al.
+   <br>Proceedings of The Web Conference, 2020
+   [[Paper]](https://arxiv.org/abs/2002.01680) [[Code]]
 
-4. **Heterogeneous Graph Transformer (HGT)**.
-   Hu et al.
-   WWW 2020.
-   [[Paper]]() [[Code]]()
+3. **Graph transformer networks** - Yun et al.
+   <br>Advances in Neural Information Processing Systems, 2019
+   [[Paper]](https://arxiv.org/abs/1911.06455) [[Code]]
 
-5. **HetSANN: Heterogeneous Graph Structural Attention Neural Network**.
-   Hong et al.
-   KDD 2020.
-   [[Paper]]() [[Code]]()
+4. **Heterogeneous graph transformer** - Hu et al.
+   <br>Proceedings of The Web Conference, 2020
+   [[Paper]](https://arxiv.org/abs/2003.01332) [[Code]]
 
-6. **MIGTNet: Multiplex Information Graph Transformer Network**.
-   [[Paper]]() [[Code]]()
+5. **An attention-based graph neural network for heterogeneous structural learning** - Hong et al.
+   <br>Proceedings of the AAAI Conference on Artificial Intelligence, 2020
+   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5833) [[Code]]
 
-7. **HetGNN: Heterogeneous Graph Neural Network**.
-   Zhang et al.
-   KDD 2019.
-   [[Paper]]() [[Code]]()
+6. **Migtnet: metapath instance-based graph transformation network for heterogeneous graph embedding** - Park et al.
+   <br>Future Generation Computer Systems, 2023
+   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23002960) [[Code]]
 
-8. **HGSL: Heterogeneous Graph Structure Learning for Graph Neural Networks**.
-   Zhao et al.
-   AAAI 2021.
-   [[Paper]]() [[Code]]()
+7. **Heterogeneous graph neural network** - Zhang et al.
+   <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2019
+   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330961) [[Code]]
 
-9. **HGK-GNN: Heterogeneous Graph Kernel Graph Neural Network**.
-   [[Paper]]() [[Code]]()
+8. **Heterogeneous graph structure learning for graph neural networks** - Zhao et al.
+   <br>Proceedings of the AAAI Conference on Artificial Intelligence, 2021
+   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16600) [[Code]]
 
-10. **RS-HGNN: Relation Structural Heterogeneous Graph Neural Network**.
-    [[Paper]]() [[Code]]()
+9. **Hgk-gnn: Heterogeneous graph kernel based graph neural networks** - Long et al.
+   <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
+   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467429) [[Code]]
 
-11. **HAGNN: Heterogeneous Graph Attention Neural Network**.
-    [[Paper]]() [[Code]]()
+10. **Relation structure-aware heterogeneous graph neural network** - Zhu et al.
+    <br>Proceedings of the IEEE International Conference on Data Mining, 2019
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/8970828) [[Code]]
 
-12. **MeGNN: Metagraph Neural Network for Heterogeneous Graph Embedding**.
-    [[Paper]]() [[Code]]()
+11. **Hagnn: Hybrid aggregation for heterogeneous graph neural networks** - Zhu et al.
+    <br>IEEE Transactions on Neural Networks and Learning Systems, 2024
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/10816727) [[Code]]
 
-13. **HeCo: Network Schema Preserving Heterogeneous Graph Contrastive Learning**.
-    Wang et al.
-    KDD 2021.
-    [[Paper]]() [[Code]]()
+12. **Megnn: Meta-path extracted graph neural network for heterogeneous graph representation learning** - Chang et al.
+    <br>Knowledge-Based Systems, 2022
+    [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512100873X) [[Code]]
 
-14. **SeHGNN: Simple and Efficient Heterogeneous Graph Neural Network**.
-    Yang et al.
-    KDD 2022.
-    [[Paper]]() [[Code]]()
+13. **Self-supervised heterogeneous graph neural network with co-contrastive learning** - Wang et al.
+    <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467415) [[Code]]
 
-15. **HPN: Heterogeneous Graph Propagation Network**.
-    [[Paper]]() [[Code]]()
+14. **Simple and efficient heterogeneous graph neural network** - Yang et al.
+    <br>Proceedings of the AAAI Conference on Artificial Intelligence, 2023
+    [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26283) [[Code]]
 
-16. **muxGNN: Multiplex Graph Neural Network for Heterogeneous Graph Representation Learning**.
-    [[Paper]]() [[Code]]()
+15. **Heterogeneous graph propagation network** - Ji et al.
+    <br>IEEE Transactions on Knowledge and Data Engineering, 2023
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428609) [[Code]]
 
-17. **DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks**.
-    Wan et al.
-    WWW 2022.
-    [[Paper]]() [[Code]]()
+16. **muxgnn: Multiplex graph neural network for heterogeneous graphs** - Melton et al.
+    <br>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/10086644) [[Code]]
 
-18. **AHGNN: Adaptive Heterogeneous Graph Neural Network**.
-    [[Paper]]() [[Code]]()
+17. **Diffmg: Differentiable meta graph search for heterogeneous graph neural networks** - Ding et al.
+    <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467447) [[Code]]
 
-19. **HGEN: Heterogeneous Graph Ensemble Network**.
-    [[Paper]]() [[Code]]()
+18. **Adaptive heterogeneous graph neural networks: Bridging heterophily and heterogeneity** - Chen et al.
+    <br>Proceedings of the ACM International Conference on Information and Knowledge Management, 2025
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3761131) [[Code]]
 
+19. **Hgen: heterogeneous graph ensemble networks** - Shen et al.
+    <br>Proceedings of the International Joint Conference on Artificial Intelligence, 2025
+    [[Paper]](https://arxiv.org/abs/2509.09843) [[Code]]
 ---
 
 # Non-Euclidean Space
