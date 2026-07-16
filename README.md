@@ -224,50 +224,65 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### Recommendation Systems
 
-1. **HERec: Heterogeneous Information Network Embedding for Recommendation**.
-   [[Paper]]() [[Code]]()
+1. **Heterogeneous Information Network Embedding for Recommendation**. - Shi et al.
+    <br>IEEE transactions on knowledge and data engineering, 2018
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/8355676) [[Code]](https://github.com/librahu/HERec)
 
-2. **HeteroGraphRec: Heterogeneous Graph Neural Network for Recommendation**.
-   [[Paper]]() [[Code]]()
+2. **HeteroGraphRec: A Heterogeneous Graph-Based Neural Network for Social Recommendations** - Salamat et al.
+    <br>Knowledge-Based Systems, 2021
+    [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705121000800)
 
-3. **HGNR: Heterogeneous Graph Neural Recommendation**.
-   [[Paper]]() [[Code]]()
+3. **A Heterogeneous Graph Neural Model for Cold-Start Recommendation** - Liu et al.
+    <br>Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401252)
 
-4. **GL-HGNN: Graph Learning based Heterogeneous Graph Neural Network**.
-   [[Paper]]() [[Code]]()
+4. **Graph Learning Augmented Heterogeneous Graph Neural Network for Social Recommendation** - Zhang et al.
+    <br>ACM Transactions on Recommender Systems, 2023
+    [[Paper]](https://dl.acm.org/doi/full/10.1145/3610407)
 
-5. **AHGNNRec: Adaptive Heterogeneous Graph Neural Network for Recommendation**.
-   [[Paper]]() [[Code]]()
+5. **Adversarial Heterogeneous Graph Neural Network for Robust Recommendation** - Sang et al.
+    <br>IEEE Transactions on Computational Social Systems, 2023
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/10124876)
 
-6. **HG-GNN: Heterogeneous Graph Neural Network for Recommendation**.
-   [[Paper]]() [[Code]]()
+6. **Heterogeneous Global Graph Neural Networks for Personalized Session-Based Recommendation** - Pang et al.
+    <br>Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining, 2022
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498505)
 
-7. **MEIRec: Multi-Interest Recommendation with Heterogeneous Information Networks**.
-   [[Paper]]() [[Code]]()
+7. **Metapath-Guided Heterogeneous Graph Neural Network for Intent Recommendation** - Fan et al.
+    <br>Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2019
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330673)
 
-8. **HGCL: Heterogeneous Graph Contrastive Learning for Recommendation**.
-   [[Paper]]() [[Code]]()
+8. **Heterogeneous Graph Contrastive Learning for Recommendation** - Chen et al.
+    <br>Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining, 2023
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570484)
 
-9. **HHGSA: Hyperbolic Heterogeneous Graph Self-Attention Network**.
-   [[Paper]]() [[Code]]()
+9. **Heterogeneous Hypergraph Neural Network for Social Recommendation Using Attention Network** - Khan et al.
+    <br>ACM Transactions on Recommender Systems, 2025
+    [[Paper]](https://dl.acm.org/doi/full/10.1145/3613964)
 
-10. **MKGCL: Multi-space Knowledge Graph Contrastive Learning**.
-    [[Paper]]() [[Code]]()
+10. **Mixed-Curvature Knowledge-Enhanced Graph Contrastive Learning for Recommendation** - Zhang et al.
+    <br>Expert Systems with Applications, 2024
+    [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423020717) 
 
-11. **HGCH: Hyperbolic Graph Contrastive Learning for Heterogeneous Graphs**.
-    [[Paper]]() [[Code]]()
+11. **HGCH: A Hyperbolic Graph Convolution Network Model for Heterogeneous Collaborative Graph Recommendation** - Zhang et al.
+    <br>Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3627673.3679701)
 
-12. **PHGR: Personalized Heterogeneous Graph Recommendation**.
-    [[Paper]]() [[Code]]()
+12. **Poincaré Heterogeneous Graph Neural Networks for Sequential Recommendation** - Guo et al.
+    <br>ACM Transactions on Information Systems, 2023
+    [[Paper]](https://dl.acm.org/doi/full/10.1145/3568395)
+    
+13. **Hyperbolic Graph Learning for Social Recommendation** - Yang et al.
+    <br>IEEE Transactions on Knowledge and Data Engineering, 2024
+    [[Paper]](https://ieeexplore.ieee.org/abstract/document/10361607)
 
-13. **HGSR: Heterogeneous Graph Sequential Recommendation**.
-    [[Paper]]() [[Code]]()
+14. **Knowledge Based Hyperbolic Propagation** - Tai et al.
+    <br>Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021
+    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462980)
 
-14. **KBHP: Knowledge Base enhanced Hyperbolic Preference Learning**.
-    [[Paper]]() [[Code]]()
-
-15. **Spherical Graph Embedding for Heterogeneous Information Networks**.
-    [[Paper]]() [[Code]]()
+15. **Spherical Graph Embedding for Item Retrieval in Recommendation System** - Zhu et al.
+    <br>Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022
+    [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557704)
 
 ### NLP
 
