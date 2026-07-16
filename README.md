@@ -178,33 +178,43 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Hyperspherical Space
 
-1. **Spherical Graph Embedding for Heterogeneous Information Networks**.
-   [[Paper]]() [[Code]]()
+1. **Spherical Graph Embedding for Item Retrieval in Recommendation System** - Zhu et al.
+   <br>Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022
+   [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557704)
 
-2. **MTHL: Multi-Task Hyperbolic Learning for Heterogeneous Graphs**.
-   [[Paper]]() [[Code]]()
+2. **Anomaly Detection in Dynamic Networks Using Multi-View Time-Series Hypersphere Learning** - Teng et al.
+   <br>Proceedings of the 26th ACM International Conference on Information and Knowledge Management, 2017
+   [[Paper]](https://dl.acm.org/doi/10.1145/3132847.3132964)
 
-3. **MulDualGNN: Multi-space Dual Graph Neural Network**.
-   [[Paper]]() [[Code]]()
+3. **Anomaly Detection with Dual-Channel Heterogeneous Graph Based on Hypersphere Learning** - Li et al.
+   <br>Information Sciences, 2024
+   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025524011563)
 
 ---
 
 # Mixed Space
 
-1. **Weighted-PM: Weighted Product Manifold Learning for Heterogeneous Graph Embedding**.
-   [[Paper]]() [[Code]]()
+# Mixed Space
 
-2. **M2GNN: Multi-Manifold Graph Neural Network**.
-   [[Paper]]() [[Code]]()
+1. **Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold** - Nguyen-Van et al.
+   <br>arXiv, 2023
+   [[Paper]](https://arxiv.org/abs/2307.04514)
 
-3. **MCKGC: Multi-Curvature Knowledge Graph Completion**.
-   [[Paper]]() [[Code]]()
+2. **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion** - Wang et al.
+   <br>Proceedings of the Web Conference, 2021
+   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3450118)
 
-4. **MKGCL: Multi-space Knowledge Graph Contrastive Learning**.
-   [[Paper]]() [[Code]]()
+3. **Mixed-Curvature Multi-Modal Knowledge Graph Completion** - Gao et al.
+   <br>Proceedings of the AAAI Conference on Artificial Intelligence, 2025
+   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33273)
 
-5. **HGE: Heterogeneous Graph Embedding in Hybrid Geometric Spaces**.
-   [[Paper]]() [[Code]]()
+4. **Mixed-Curvature Knowledge-Enhanced Graph Contrastive Learning for Recommendation** - Zhang et al.
+   <br>Expert Systems with Applications, 2024
+   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423020717)
+
+5. **HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces** - Pan et al.
+   <br>Proceedings of the AAAI Conference on Artificial Intelligence, 2024
+   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28739)
 
 ---
 
